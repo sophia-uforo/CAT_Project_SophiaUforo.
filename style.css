@@ -1,0 +1,32 @@
+header {
+ align-items: center;
+  background-color: azure;
+  padding: 24px;
+}
+h2{
+  background-color: powderblue;
+  padding: 44px;
+}
+h3{
+  background-color: aliceblue;
+  padding: 36px;
+}
+section h5{
+  background-color: skyblue;
+  padding: 34px;
+}
+section p{
+  background-color: turquoise;
+  padding: 40px;
+}
+.declaration{
+  background-color: cyan;
+}
+section table{
+  background-color: gainsboro;
+  padding: 48px;
+}
+h6{
+  background-color: aliceblue;
+  padding: 24px;
+}
