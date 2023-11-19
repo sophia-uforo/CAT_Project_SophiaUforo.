@@ -1,0 +1,17 @@
+header h1{
+  background-color: bisque;
+  font-size: 24px;
+  allign-items: centre;
+  padding: 32px;
+}
+header p{
+  background-color: peachpuff;
+  font-size: 18px;
+  padding: 18px;
+}
+h2{background-color: gainsboro;
+  padding: 14px
+}
+p{background-color: pink;
+  padding: 32px
+}

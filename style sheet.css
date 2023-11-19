@@ -4,4 +4,15 @@ header{
   allign-items: centre;
   padding: 24px;
 }
-
+h2{
+  background-color: peachpuff;
+}
+p{
+  background-color: papayawhip;
+}
+section h3{
+  background-color: gainsboro;
+}
+h4{
+  background-color: antiquewhite;
+}
